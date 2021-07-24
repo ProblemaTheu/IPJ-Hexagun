@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - IA1
+  - IA2
+  - Inimigo1
+  - Inimigo2
+  - Montanha
+  - Plano
+  - Agua
+  - Buraco
+  - Projetil1
+  - Projetil2
+  - ProjetilSniper1
+  - ProjetilSniper2
+  - Vortice
+  - Vortice1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Melee
+  - "Ch\xE3o"
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
